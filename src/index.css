@@ -1,0 +1,12 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: #F3F4F8;
+  font-family: 'Roboto Mono', monospace;
+}
+
+* {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
